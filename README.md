@@ -2,7 +2,14 @@
 
 
 ### Overview
-.....
+* Completed a job simulation where I strengthened my PowerBI skills to understand clients and their data visualization needs better. 
+
+* Demonstrated expertise in data visualization by creating Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions. 
+
+* Strong communication skills reflected in concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
+
+* Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
+
 <br />
 <br />
 
@@ -37,8 +44,19 @@
 <img width="910" alt="button- Clear filter" src="https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/assets/156224014/75261182-ff45-4f14-a3e4-38b3ec5a9129">
 <br />
 
-### Project Desciption:
-...
+### Problem Statement:
+
+* The call center manager seeks a better understanding of their department's data to evaluate its performance and identify areas where efficiency is lacking. Consequently, they engage PwC as a third-party expert.
+
+* PwC has assigned you, a data analyst, to address this business case. Your responsibility is to provide a clear overview of the department's performance and fulfill their analytical requirements.
+
+* The call center manager and their team specifically aim for transparent data visibility and detailed analysis to meet their requirements, which include:
+1. Identifying important KPIs.
+2. Evaluating agents' performance based on the calls they answered and queries they resolved.
+3. Identifying patterns in customer calls over recent months across various time frames.
+4. Analyzing the breakdown of calls by query topic.
+5. Conducting an analysis of customer ratings.
+
 <br />
 <br />
 
@@ -92,8 +110,17 @@
 <br />
 
 
-### Project Desciption:
-...
+### Problem Statement:
+* The Human Resources department at our telecom client is deeply committed to diversity and inclusion. Despite their efforts to improve gender balance at the executive management level, they have not observed any progress. Seeking assistance, they have reached out to us.
+
+* The company recognizes that a diverse workforce, with talents and backgrounds, is essential for success in an increasingly complex and heterogeneous world. For our client, diversity and inclusion are not just optional; they are business imperatives. They strive for all teams to feel welcome and valued. However, achieving this goal and unlocking its potential pose practical challenges.
+
+* As a Data Analyst, you are tasked with addressing the client's business problem. Your responsibility is to assist them in evaluating their workforce's diversity and inclusion. This involves providing a well-defined interactive data analysis dashboard focusing on key analytical aspects such as:
+ ** Relevant KPIs.
+ ** Employee analysis based on various classification matrices, including department, job level, gender, nationality, etc.
+ ** Classification of staff based on matrices such as newly hired, ex-employee, PRA status, etc.
+
+
 <br />
 <br />
 
@@ -150,8 +177,13 @@
 <br />
 <br />
 
-### Project Desciption:
-...
+### Problem Statement:
+* PwC recently acquired a new client: a Retention Manager and their team from a Telecom Company. They are grappling with a business problem involving increasing customer terminations across various services, including phone service, internet service, online security, online backup, streaming TV or movies, Tech Support, and device security.
+
+* The PwC team has assigned you, a Business Analyst, to address the client's business scenario. The Retention Manager seeks clarity in customer analysis, understanding customer subscription buying patterns, analyzing ongoing raised tickets, and tracking relevant KPIs. Provide them with important findings and uncovered insights.
+
+* Your responsibility is to provide them with a well-defined data analysis solution, which includes a visualization report of their data. Begin by defining important analytical goals for the client's scenario, and then proceed to build an interactive dashboard.
+
 <br />
 <br />
 
