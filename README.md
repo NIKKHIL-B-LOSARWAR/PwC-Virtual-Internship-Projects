@@ -69,8 +69,8 @@
 <br />
 
 ### Project Files:
-1. Final Project- [Project.xlsxf](https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/blob/main/Project-%20Call%20Center%20Data%20Analysis/Call%20Center%20Dashboard.pbix)
-2. Dataset (Cleaned)- [Raw data.xlsx](https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/blob/main/Project-%20Call%20Center%20Data%20Analysis/Call%20Center%20Dataset%20%23Cleaned.xlsx)
+1. Final Project- [Call Center Dashboard.pbix](https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/blob/main/Project-%20Call%20Center%20Data%20Analysis/Call%20Center%20Dashboard.pbix)
+2. Dataset (Cleaned)- [Call Center Dataset #Cleaned.xlsx](https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/blob/main/Project-%20Call%20Center%20Data%20Analysis/Call%20Center%20Dataset%20%23Cleaned.xlsx)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -133,8 +133,9 @@
 <br />
 
 ### Project Files:
-1. Final Project- [Project file](https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/blob/main/Project-%20HR%20data%20Analysis%20for%20Diversity%20and%20Inclusion/HR%20data%20analysis%20for%20Diversity%20and%20Inclusion.pbix)
-2. Dataset (Cleaned)- [Raw data.xlsx](https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/blob/main/Project-%20HR%20data%20Analysis%20for%20Diversity%20and%20Inclusion/HR_Data%20(Diversity%20Inclusion).xlsx)
+1. Final Project- [HR data analysis for Diversity and Inclusion.pbix](https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/blob/main/Project-%20HR%20data%20Analysis%20for%20Diversity%20and%20Inclusion/HR%20data%20analysis%20for%20Diversity%20and%20Inclusion.pbix)
+2. Dataset (Cleaned)- [HR_Data (Diversity Inclusion).xlsx
+](https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/blob/main/Project-%20HR%20data%20Analysis%20for%20Diversity%20and%20Inclusion/HR_Data%20(Diversity%20Inclusion).xlsx)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
