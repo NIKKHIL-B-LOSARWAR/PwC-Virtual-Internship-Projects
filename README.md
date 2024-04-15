@@ -37,7 +37,6 @@
 <img width="910" alt="button- Clear filter" src="https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/assets/156224014/75261182-ff45-4f14-a3e4-38b3ec5a9129">
 <br />
 
-
 ### Project Desciption:
 ...
 <br />
