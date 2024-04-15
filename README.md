@@ -116,9 +116,9 @@
 * The company recognizes that a diverse workforce, with talents and backgrounds, is essential for success in an increasingly complex and heterogeneous world. For our client, diversity and inclusion are not just optional; they are business imperatives. They strive for all teams to feel welcome and valued. However, achieving this goal and unlocking its potential pose practical challenges.
 
 * As a Data Analyst, you are tasked with addressing the client's business problem. Your responsibility is to assist them in evaluating their workforce's diversity and inclusion. This involves providing a well-defined interactive data analysis dashboard focusing on key analytical aspects such as:
- ** Relevant KPIs.
- ** Employee analysis based on various classification matrices, including department, job level, gender, nationality, etc.
- ** Classification of staff based on matrices such as newly hired, ex-employee, PRA status, etc.
+  1. Relevant KPIs.
+  2. Employee analysis based on various classification matrices, including department, job level, gender, nationality, etc.
+  3. Classification of staff based on matrices such as newly hired, ex-employee, PRA status, etc.
 
 
 <br />
