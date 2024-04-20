@@ -10,8 +10,13 @@
 
 * Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
+<img width="910" alt="PwC Virtual Internship Certificate" src="https://github.com/NIKKHIL-B-LOSARWAR/PwC-Virtual-Internship-Projects/assets/156224014/551be59f-81a4-4432-b582-3528fcd4e358">
 <br />
 <br />
+
+1. Online Certificate- [PwC Vitual Internship (Job Simulation)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_HpSSfnqwpaKkdp54W_1712577297779_completion_certificate.pdf)
+
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_HpSSfnqwpaKkdp54W_1712577297779_completion_certificate.pdf
 
 ## Project- Call Center Data Analysis
 
