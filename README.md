@@ -16,7 +16,7 @@
 
 1. Online Certificate- [PwC Vitual Internship (Job Simulation)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_HpSSfnqwpaKkdp54W_1712577297779_completion_certificate.pdf)
 
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_HpSSfnqwpaKkdp54W_1712577297779_completion_certificate.pdf
+
 
 ## Project- Call Center Data Analysis
 
